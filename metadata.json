@@ -1,0 +1,8 @@
+{
+  "name": "Gramin Swasthya Seva - Rural Healthcare AI",
+  "description": "AI-powered rural healthcare assistance, early disease detection, clinic & hospital locator, doctor appointments, and multilingual health education for rural India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
